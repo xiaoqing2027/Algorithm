@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by miaodonghan on 12/21/15.
+ * Created by maggie on 12/21/15.
  */
 public class NQueens {
     List<List<String>> solutions = new ArrayList<List<String>>();

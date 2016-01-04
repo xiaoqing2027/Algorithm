@@ -1,5 +1,5 @@
 /**
- * Created by miaodonghan on 12/28/15.
+ * Created by maggie on 12/28/15.
  */
 public class CoinChange_DP {
     int nums = 0;

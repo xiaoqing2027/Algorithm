@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Created by miaodonghan on 12/23/15.
+ * Created by maggie on 12/23/15.
  */
 public class CoinChange_Greedy {
 
