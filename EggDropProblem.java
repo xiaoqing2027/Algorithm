@@ -7,7 +7,7 @@ package leetcode.test;
 
 /**
  *
- * @author miaodonghan
+ * @author maggie
  */
 public class EggDropProblem {
   public static int eggDrop(int k, int e){
